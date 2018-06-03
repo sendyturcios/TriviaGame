@@ -1,0 +1,51 @@
+
+
+
+body {
+    background-image: url("/Users/sendyturcios/Desktop/code/Week5:JavaScript2/assets/images/friendsbackground.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+
+.content {
+    background: white;
+    width: 75%;
+    padding: 40px;
+    margin: 100px auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 50px;
+    
+}
+
+p {
+    font-size: 25px;
+    color: black;
+    text-align: center;
+
+}
+
+#submit {
+    background-color: #555555;
+    font-size: 20px;
+    padding: 14px 40px;
+    border-radius: 12px;
+    color: white;
+}
+
+#start {
+    background-color: #555555;
+    font-size: 20px;
+    padding: 14px 40px;
+    border-radius: 12px;
+    color: white;
+}
+
+#game {
+    font-size: 20px;
+}
