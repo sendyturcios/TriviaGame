@@ -2,7 +2,7 @@
 
 
 body {
-    background-image: url("/Users/sendyturcios/Desktop/code/Week5:JavaScript2/assets/images/friendsbackground.jpg");
+    background-image: url("../images/friendsbackground.jpg");
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
