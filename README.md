@@ -7,3 +7,8 @@ You will have one minute to answer 10 questions.
 
 Try to finish before time runs out! 
 
+
+https://sendyturcios.github.io/TriviaGame/
+
+
+
